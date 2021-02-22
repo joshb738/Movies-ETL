@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The following analysis was performed to provide Amazing Prime Video with a movie database that can be used for developing their popular low-budget movie algorithm. The database was generated using the Extract, Transform, Load process for the following data sources- Wikipedia data, Kaggle metadata, and the MovieLens rating data.
+The following analysis was performed to provide Amazing Prime Video with a movie database that can be used for developing their popular, low-budget movie algorithm. The database was generated using a function that performs the Extract, Transform, Load process for the following data sources- Wikipedia data, Kaggle metadata, and the MovieLens rating data.
 
 ## Resources 
 
